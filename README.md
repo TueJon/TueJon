@@ -19,7 +19,7 @@
 - **Spec first, agents second** — I describe the outcome, then orchestrate AI agents to build, test and review it
 - **Multi-agent control** — agents and models supervise and review each other's work; nothing ships unreviewed by another mind
 - **Automated testing & gates** — every change runs through tests, linters and AI review before it ever reaches `main`
-- **Claude Code + custom agent pipelines** as daily drivers — production tooling, not demos
+- **Claude Code + Codex * Gemini CLI + OpenCode + custom agent pipelines** as daily drivers — production tooling, not demos
 - **One human (two at TWB), a fleet of agents** — leverage over headcount
 
 ### `➜ ~ stack --core`
