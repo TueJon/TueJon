@@ -39,4 +39,4 @@
 
 ### `➜ ~ contact --open`
 
-**[LinkedIn](https://linkedin.com/in/jonas-tuechler)** &nbsp;·&nbsp; **[contact@jonastuechler.at](mailto:contact@jonastuechler.at)** &nbsp;·&nbsp; **[twb-digital.at](https://twb-digital.at)**
+**[jonastuechler.at](https://jonastuechler.at)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/jonas-tuechler)** &nbsp;·&nbsp; **[contact@jonastuechler.at](mailto:contact@jonastuechler.at)** &nbsp;·&nbsp; **[twb-digital.at](https://twb-digital.at)**
