@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tue-Jonas/tue-Jonas/main/assets/terminal.svg" width="100%" alt="contact@jonastuechler.at terminal" />
+<img src="https://raw.githubusercontent.com/TueJon/TueJon/main/assets/terminal.svg" width="100%" alt="contact@jonastuechler.at terminal" />
 
 </div>
 
