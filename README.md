@@ -14,6 +14,16 @@
 - **AI consulting & dev setups** — helping teams put AI agents, automation and modern tooling to work in their own stack
 - **Websites & high-converting landing pages** — local businesses to enterprise
 
+### `➜ ~ ./featured --project webmcpify`
+
+**[webmcpify](https://webmcpify.at)** — make any web app agent-ready, verifiably.
+
+An open-source Agent Skill that maps a web app's user-facing actions, integrates only the approved WebMCP tools through existing UI and authentication paths, executes every tool in real Chrome, heals failures, and audits every changed hunk.
+
+`DETECT → INVENTORY → APPROVE → INTEGRATE → VERIFY → HEAL → AUDIT`
+
+**[Website](https://webmcpify.at)** &nbsp;·&nbsp; **[Source](https://github.com/TueJon/webmcpify)** &nbsp;·&nbsp; `npx skills add TueJon/webmcpify`
+
 ### `➜ ~ ./how-i-work --ai-native`
 
 - **Spec first, agents second** — I describe the outcome, then orchestrate AI agents to build, test and review it
